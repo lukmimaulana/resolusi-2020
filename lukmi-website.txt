@@ -1,6 +1,8 @@
 rencana website
 
 website belanja online
-belanja online pengiriman cepat
+- belanja online pengiriman cepat
+- pembayaran COD
+
 restaurant
-aplikasi makan ditempat
+- aplikasi makan ditempat

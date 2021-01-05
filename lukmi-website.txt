@@ -6,3 +6,5 @@ website belanja online
 
 restaurant
 - aplikasi makan ditempat
+
+vendoor

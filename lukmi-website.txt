@@ -2,8 +2,13 @@ rencana website
 
 website belanja online
 - belanja online pengiriman cepat
+- pembayaran COD
 - sembako
 
 restaurant
 - aplikasi makan ditempat
 - berbagai restaurant
+- aplikasi makan ditempat
+
+vendoor
+- menyediakan vendor acara
